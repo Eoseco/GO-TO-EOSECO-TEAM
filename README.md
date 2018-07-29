@@ -1,2 +1,2 @@
 # EOSeco
-Deprecated, PLEASE GOTO [github.com/eoseco-team](github.com/eoseco-team)
+Deprecated, PLEASE GOTO [github.com/eoseco-team](https://github.com/eoseco-team)
